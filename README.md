@@ -64,24 +64,19 @@ I'm a **B.Tech Computer Science Engineering student** focused on becoming a stro
 
 ## Featured Projects
 
+### Workout Tracking
+A Python-based workout tracking project that uses APIs to record exercise data, calculate workout details, and store the results.
+
+**Python • APIs • Requests • Sheety • Automation**
+
+[View Repository →](https://github.com/HaritSharma-07/Python-Workout-Tracker)
+
 ### Portfolio — MERN
-A personal full-stack portfolio built while learning the MERN stack.
+A personal full-stack developer portfolio built while learning the MERN stack.
 
 **React • Node.js • Express • MongoDB**
 
-[View Repository →](https://github.com/HaritSharma-07/Portfolio-MERN)
-
-### 100 Days of Python
-A collection of Python projects and exercises built throughout the **100 Days of Code: The Complete Python Pro Bootcamp** journey.
-
-**Python • APIs • Automation • Problem Solving**
-
-### Flight Deal Alert
-A Python automation project that searches for lower-cost flight deals and sends notifications when a suitable deal is found.
-
-**Python • APIs • Requests • Flight Search • Automation**
-
----
+[View Repository →](https://github.com/HaritSharma-07/portfolio-MERN)
 
 ## Currently Learning
 
@@ -135,8 +130,8 @@ Currently pursuing my final year and preparing for software engineering opportun
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<!-- Replace https://www.linkedin.com/ with your actual LinkedIn profile URL -->
-<a href="https://www.linkedin.com/">
+<!-- Replace https://www.linkedin.com/in/harit-sharma-266401376/in/harit-sharma-266401376 with your actual LinkedIn profile URL -->
+<a href="https://www.linkedin.com/in/harit-sharma-266401376/in/harit-sharma-266401376">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 

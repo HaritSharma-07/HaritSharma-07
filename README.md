@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="./assets/profile.jpg" alt="Harit Sharma" width="130" height="130" style="border-radius: 50%;">
+<img src="./assets/profile.jpg" alt="Harit Sharma" width="190" height="190" style="border-radius: 50%;">
 
 # Harit Sharma
 
@@ -107,17 +107,15 @@ AI / ML
 
 ## GitHub Statistics
 
----
-
-## GitHub Statistics
-
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=HaritSharma-07&show_icons=true&hide_border=true&theme=transparent" height="165">
+<img src="https://github-stats-extended.vercel.app/api?username=HaritSharma-07&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165">
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HaritSharma-07&layout=compact&hide_border=true&theme=transparent" height="165">
 
 </div>
+
+---
 
 ## Education
 
@@ -137,7 +135,7 @@ Currently pursuing my final year and preparing for software engineering opportun
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<!-- Replace the placeholder below with your LinkedIn profile -->
+<!-- Replace https://www.linkedin.com/ with your actual LinkedIn profile URL -->
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -153,4 +151,3 @@ Currently pursuing my final year and preparing for software engineering opportun
 **Learn. Build. Grow.**
 
 </div>
-

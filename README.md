@@ -115,8 +115,6 @@ AI / ML
 
 </div>
 
----
-
 ## Education
 
 **B.Tech — Computer Science & Engineering**
